@@ -22,21 +22,23 @@
 	src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<style type="text/css">
-	/* Set black background color, white text and some padding */
+<style type="text/css">
+/* Set black background color, white text and some padding */
 footer {
 	background-color: #555;
 	color: white;
 	padding: 15px;
 	position: fixed;
-    bottom: 0;
+	bottom: 0;
 }
-	</style>
+</style>
 </head>
 
 <body>
 
 	<div class="container">
+
+	
 		<div class="row" style="margin-top: 20%;">
 
 			<div class="container-fluid bg-2 text-center">
@@ -88,8 +90,8 @@ footer {
 			</div>
 		</div>
 	</div>
-	
+
 
 </body>
-<%@ include file="footer.jsp" %>  
+<%@ include file="footer.jsp"%>
 </html>
